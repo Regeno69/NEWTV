@@ -1,441 +1,442 @@
+
 #EXTM3U
 #EXTINF:-1 tvg-id="MOVLIG1" tvg-name="M+ LALIGA" tvg-logo="http://fanc.tmsimg.com/assets/s114665_ll_h3_aa.png" group-title="LA LIGA",M+ LALIGA
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/141014
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/141014
 #EXTINF:-1 tvg-id="MOVLIG1" tvg-name="M+ LALIGA HD" tvg-logo="http://fanc.tmsimg.com/assets/s114665_ll_h3_aa.png" group-title="LA LIGA",M+ LALIGA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/165150
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/165150
 #EXTINF:-1 tvg-id="MOVLIG1" tvg-name="M+ LALIGA" tvg-logo="http://fanc.tmsimg.com/assets/s114665_ll_h3_aa.png" group-title="LA LIGA",M+ LALIGA
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/141010
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/141010
 #EXTINF:-1 tvg-id="MOVLIG1" tvg-name="M+ LALIGA HD" tvg-logo="http://fanc.tmsimg.com/assets/s114665_ll_h3_aa.png" group-title="LA LIGA",M+LALIGA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/165151
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/165151
 #EXTINF:-1 tvg-id="MVLIGA2" tvg-name="M+ LALIGA 2" tvg-logo="http://fanc.tmsimg.com/assets/s114669_ll_h3_aa.png" group-title="LA LIGA",M+ LALIGA 2
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/141011
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/141011
 #EXTINF:-1 tvg-id="MVLIGA2" tvg-name="M+ LALIGA 2" tvg-logo="http://fanc.tmsimg.com/assets/s114669_ll_h3_aa.png" group-title="LA LIGA",M+ LALIGA 2
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/165157
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/165157
 #EXTINF:-1 tvg-id="MVLIGA3" tvg-name="M+ LALIGA 3 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s114671_ll_h3_aa.png" group-title="LA LIGA",M+ LALIGA 3 FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/259232
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/259232
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 3 HD" tvg-logo="http://fanc.tmsimg.com/assets/s114671_ll_h3_aa.png" group-title="LA LIGA",M+ LALIGA 3 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/259233
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/259233
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 4" tvg-logo="http://fanc.tmsimg.com/assets/s114671_ll_h3_aa.png" group-title="LA LIGA",M+ LALIGA 4
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/259234
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/259234
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 5" tvg-logo="http://fanc.tmsimg.com/assets/s114671_ll_h3_aa.png" group-title="LA LIGA",M+ LALIGA 5
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/259235
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/259235
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 6" tvg-logo="http://fanc.tmsimg.com/assets/s114671_ll_h3_aa.png" group-title="LA LIGA",M+ LALIGA 6
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/259236
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/259236
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 7" tvg-logo="http://fanc.tmsimg.com/assets/s114671_ll_h3_aa.png" group-title="LA LIGA",M+ LALIGA 7
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/259237
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/259237
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 8" tvg-logo="http://fanc.tmsimg.com/assets/s114671_ll_h3_aa.png" group-title="LA LIGA",M+ LALIGA 8
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/259238
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/259238
 #EXTINF:-1 tvg-id="LALTV" tvg-name="LIGA TV BAR" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="LA LIGA",LIGA TV BAR
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/165152
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/165152
 #EXTINF:-1 tvg-id="LALTV" tvg-name="LIGA TV 1 BAR" tvg-logo="http://fanc.tmsimg.com/assets/s114091_ll_h3_aa.png" group-title="LA LIGA",LIGA TV 1 BAR
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/165156
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/165156
 #EXTINF:-1 tvg-id="MOVLIG1" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="http://fanc.tmsimg.com/assets/s114665_ll_h3_aa.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/165149
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/165149
 #EXTINF:-1 tvg-id="MOLIGA" tvg-name="M+ LIGA DE CAMPEONES HD" tvg-logo="http://fanc.tmsimg.com/assets/s109869_ll_h3_aa.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248287
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248287
 #EXTINF:-1 tvg-id="MVLGCM1" tvg-name="M+ LIGA DE CAMPEONES 1" tvg-logo="http://fanc.tmsimg.com/assets/s114668_ll_h3_aa.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 1
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/141013
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/141013
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s109869_ll_h3_aa.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 2 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248288
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248288
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 3 HD" tvg-logo="http://fanc.tmsimg.com/assets/s109869_ll_h3_aa.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 3 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248289
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248289
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 4 HD" tvg-logo="http://fanc.tmsimg.com/assets/s109869_ll_h3_aa.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 4 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248290
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248290
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 5 HD" tvg-logo="http://fanc.tmsimg.com/assets/s109869_ll_h3_aa.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 5 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248291
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248291
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 6 HD" tvg-logo="http://fanc.tmsimg.com/assets/s109869_ll_h3_aa.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 6 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248292
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248292
 #EXTINF:-1 tvg-id="LIGCAHD" tvg-name="M+ LIGA DE CAMPEONES 7 HD" tvg-logo="http://fanc.tmsimg.com/assets/s109869_ll_h3_aa.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 7 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248293
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248293
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1 SD" tvg-logo="https://i.ibb.co/QcFDsqN/DAZN-F.jpg" group-title="DAZN",DAZN F1 SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248279
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248279
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1 SD" tvg-logo="https://i.ibb.co/6FPwn3r/DAZN-F.jpg" group-title="DAZN",DAZN F1 SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248280
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248280
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1 SD" tvg-logo="https://i.ibb.co/6FPwn3r/DAZN-F.jpg" group-title="DAZN",DAZN F1 SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248273
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248273
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="https://i.ibb.co/6FPwn3r/DAZN-F.jpg" group-title="DAZN",DAZN F1 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248274
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248274
 #EXTINF:-1 tvg-id="MFOR1" tvg-name="M+ F1" tvg-logo="http://fanc.tmsimg.com/assets/s96447_ll_h3_aa.png" group-title="DEPORTES",M+ F1
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/165167
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/165167
 #EXTINF:-1 tvg-id="MFOR1HD" tvg-name="M+ F1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s102938_ll_h3_aa.png" group-title="DEPORTES",M+ F1 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/165166
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/165166
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA SD" tvg-logo="https://i.ibb.co/9pM4S9T/DAZN-LA-LIGA.jpg" group-title="DAZN",DAZN LALIGA SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248275
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248275
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA HD" tvg-logo="https://i.ibb.co/9pM4S9T/DAZN-LA-LIGA.jpg" group-title="DAZN",DAZN LALIGA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248276
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248276
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 SD" tvg-logo="https://i.ibb.co/9pM4S9T/DAZN-LA-LIGA.jpg" group-title="DAZN",DAZN LALIGA 2 SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248277
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248277
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 HD" tvg-logo="https://i.ibb.co/9pM4S9T/DAZN-LA-LIGA.jpg" group-title="DAZN",DAZN LALIGA 2 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248278
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248278
 #EXTINF:-1 tvg-id="DAZN1HD" tvg-name="DAZN SPORTS 1 HD" tvg-logo="https://i.ibb.co/1M0cfQq/DAZM-PREMIER-1.jpg" group-title="DAZN",DAZN SPORTS 1 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248283
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248283
 #EXTINF:-1 tvg-id="" tvg-name="#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 SD" tvg-logo="https://i.ibb.co/QcFDsqN/DAZN-1.jpg" group-title="DAZN",DAZN F1 SD HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248279
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248279
 #EXTINF:-1 tvg-id="DAZN1HD" tvg-name="DAZN SPORTS 2 HD" tvg-logo="https://i.ibb.co/wzdRXHg/DAZN-PREMIER-2.jpg" group-title="DAZN",DAZN SPORTS 2 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248284
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248284
 #EXTINF:-1 tvg-id="" tvg-name="DAZN SPORTS 3 HD" tvg-logo="https://i.ibb.co/Jkpy22j/DAZN-3.jpg" group-title="DAZN",DAZN SPORTS 3 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248281
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248281
 #EXTINF:-1 tvg-id="DAZN1HD" tvg-name="DAZN SPORTS 3 HD" tvg-logo="https://i.ibb.co/GJ74zZH/DAZN-PREMIER-3.jpg" group-title="DAZN",DAZN SPORTS 3 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248285
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248285
 #EXTINF:-1 tvg-id="" tvg-name="DAZN SPORTS 4 HD" tvg-logo="https://i.ibb.co/Kmx37jj/DAZN-4.jpg" group-title="DAZN",DAZN SPORTS 4 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248282
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248282
 #EXTINF:-1 tvg-id="DAZN1HD" tvg-name="DAZN SPORTS 4 HD" tvg-logo="https://i.ibb.co/7KdF6qc/DAZN-PREMIER-4.jpg" group-title="DAZN",DAZN SPORTS 4 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248286
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248286
 #EXTINF:-1 tvg-id="" tvg-name="LIGA SMARTBANK 1 HD" tvg-logo="https://i.ibb.co/zSG3V89/LA-LIGA-SMARTBANK.jpg" group-title="DAZN",LIGA SMARTBANK 1 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248269
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248269
 #EXTINF:-1 tvg-id="" tvg-name="LIGA SMARTBANK 2 HD" tvg-logo="https://i.ibb.co/zSG3V89/LA-LIGA-SMARTBANK.jpg" group-title="DAZN",LIGA SMARTBANK 2 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248270
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248270
 #EXTINF:-1 tvg-id="" tvg-name="LIGA SMARTBANK 3 HD" tvg-logo="https://i.ibb.co/zSG3V89/LA-LIGA-SMARTBANK.jpg" group-title="DAZN",LIGA SMARTBANK 3 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248271
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248271
 #EXTINF:-1 tvg-id="" tvg-name="LIGA SMARTBANK 4 HD" tvg-logo="https://i.ibb.co/zSG3V89/LA-LIGA-SMARTBANK.jpg" group-title="DAZN",LIGA SMARTBANK 4 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/248272
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/248272
 #EXTINF:-1 tvg-id="DEUROSP" tvg-name="EUROSPORT" tvg-logo="http://fanc.tmsimg.com/assets/s38359_ll_h3_aa.png" group-title="DEPORTES",EUROSPORT
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/165190
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/165190
 #EXTINF:-1 tvg-id="ESUK1" tvg-name="EUROSPORT 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s38359_ll_h3_aa.png" group-title="DEPORTES",EUROSPORT 1 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/246974
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/246974
 #EXTINF:-1 tvg-id="ESUK1" tvg-name="EUROSPORT 1 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s38359_ll_h3_aa.png" group-title="DEPORTES",EUROSPORT 1 FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/246973
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/246973
 #EXTINF:-1 tvg-id="EUSP2NL" tvg-name="EUROSPORT 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s90365_ll_h3_aa.png" group-title="DEPORTES",EUROSPORT 2 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/246975
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/246975
 #EXTINF:-1 tvg-id="EUROSPS" tvg-name="EUROSPORT 2" tvg-logo="http://fanc.tmsimg.com/assets/s90365_ll_h3_aa.png" group-title="DEPORTES",EUROSPORT 2
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/165192
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/165192
 #EXTINF:-1 tvg-id="MDEPO" tvg-name="M+ DEPORTES" tvg-logo="http://fanc.tmsimg.com/assets/s86945_ll_h3_ab.png" group-title="DEPORTES",M+ DEPORTES
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/141012
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/141012
 #EXTINF:-1 tvg-id="MDEP1HD" tvg-name="M+ DEPORTES FHD" tvg-logo="http://fanc.tmsimg.com/assets/s87010_ll_h3_aa.png" group-title="DEPORTES",M+ DEPORTES FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/165183
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/165183
 #EXTINF:-1 tvg-id="GOLTV" tvg-name="GOL TV" tvg-logo="http://fanc.tmsimg.com/assets/s32161_ll_h3_aa.png" group-title="DEPORTES",GOL TV
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/165187
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/165187
 #EXTINF:-1 tvg-id="GOLTV" tvg-name="GOL TV FHD" tvg-logo="http://fanc.tmsimg.com/assets/s90356_ll_h3_aa.png" group-title="DEPORTES",GOL TV FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/246982
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/246982
 #EXTINF:-1 tvg-id="GOLTVES" tvg-name="GOL HD" tvg-logo="http://fanc.tmsimg.com/assets/s90356_ll_h3_aa.png" group-title="DEPORTES",GOL HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/246981
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/246981
 #EXTINF:-1 tvg-id="TDEP" tvg-name="TELEDEPORTE" tvg-logo="http://fanc.tmsimg.com/assets/s17189_ll_h3_aa.png" group-title="DEPORTES",TELEDEPORTE
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/165182
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/165182
 #EXTINF:-1 tvg-id="TELEDHD" tvg-name="TELEDEPORTE HD" tvg-logo="http://fanc.tmsimg.com/assets/s91225_ll_h3_aa.png" group-title="DEPORTES",TELEDEPORTE HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/165181
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/165181
 #EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS SD" tvg-logo="" group-title="CINE",M+ ESTRENOS SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263414
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263414
 #EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS HD" tvg-logo="" group-title="CINE",M+ ESTRENOS HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263411
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263411
 #EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS HD" tvg-logo="" group-title="CINE",M+ ESTRENOS HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263412
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263412
 #EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS 2 HD" tvg-logo="" group-title="CINE",M+ ESTRENOS 2 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263415
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263415
 #EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS 2 SD" tvg-logo="" group-title="CINE",M+ ESTRENOS 2 SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263416
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263416
 #EXTINF:-1 tvg-id="" tvg-name="M+ ACCI©N HD" tvg-logo="" group-title="CINE",M+ ACCIÓN HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263408
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263408
 #EXTINF:-1 tvg-id="" tvg-name="M+ ACCION FHD" tvg-logo="" group-title="CINE",M+ ACCIÓN FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263409
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263409
 #EXTINF:-1 tvg-id="" tvg-name="M+ ACCION SD" tvg-logo="" group-title="CINE",M+ ACCIÓN SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263410
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263410
 #EXTINF:-1 tvg-id="" tvg-name="M+ DRAMA HD" tvg-logo="" group-title="CINE",M+ DRAMA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263425
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263425
 #EXTINF:-1 tvg-id="" tvg-name="M+ DRAMA FHD" tvg-logo="" group-title="CINE",M+ DRAMA FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263426
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263426
 #EXTINF:-1 tvg-id="" tvg-name="M+ DRAMA SD" tvg-logo="" group-title="CINE",M+ DRAMA SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263427
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263427
 #EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA HD" tvg-logo="" group-title="CINE",M+ COMEDIA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263428
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263428
 #EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA FHD" tvg-logo="" group-title="CINE",M+ COMEDIA FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263429
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263429
 #EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA SD" tvg-logo="" group-title="CINE",M+ COMEDIA SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263430
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263430
 #EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPAÑOL FHD" tvg-logo="" group-title="CINE",M+ CINE ESPAÑOL FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263422
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263422
 #EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPAÑOL FHD" tvg-logo="" group-title="CINE",M+ CINE ESPANOL HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263423
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263423
 #EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPAÑOL" tvg-logo="" group-title="CINE",M+ CINE ESPAÑOL
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263424
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263424
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="CINE",TNT
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263443
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263443
 #EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="CINE",CALLE 13 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263444
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263444
 #EXTINF:-1 tvg-id="" tvg-name="CALLE 13 FHD" tvg-logo="" group-title="CINE",CALLE 13 FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263445
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263445
 #EXTINF:-1 tvg-id="" tvg-name="CALLE 13 SD" tvg-logo="" group-title="CINE",CALLE 13 SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263446
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263446
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="CINE",AXN HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263447
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263447
 #EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="" group-title="CINE",AXN FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263448
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263448
 #EXTINF:-1 tvg-id="" tvg-name="AXN SD" tvg-logo="" group-title="CINE",AXN SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263449
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263449
 #EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="" group-title="CINE",AXN WHITE HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263450
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263450
 #EXTINF:-1 tvg-id="" tvg-name="AXN WHITE FHD" tvg-logo="" group-title="CINE",AXN WHITE FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263451
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263451
 #EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="CINE",SYFY HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263452
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263452
 #EXTINF:-1 tvg-id="" tvg-name="SYFY SD" tvg-logo="" group-title="CINE",SYFY SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263453
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263453
 #EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="CINE",FOX HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263454
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263454
 #EXTINF:-1 tvg-id="" tvg-name="FOX FHD" tvg-logo="" group-title="CINE",FOX FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263455
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263455
 #EXTINF:-1 tvg-id="" tvg-name="Fox SD" tvg-logo="" group-title="CINE",Fox SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263456
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263456
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT HD" tvg-logo="" group-title="CINE",PARAMOUNT HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263458
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263458
 #EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="CINE",TCM HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263459
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263459
 #EXTINF:-1 tvg-id="" tvg-name="TCM FHD" tvg-logo="" group-title="CINE",TCM FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263460
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263460
 #EXTINF:-1 tvg-id="" tvg-name="TCM SD" tvg-logo="" group-title="CINE",TCM SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263461
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263461
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" group-title="CINE",AMC HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263462
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263462
 #EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="" group-title="CINE",AMC FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263463
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263463
 #EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="" group-title="CINE",AMC SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263464
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263464
 #EXTINF:-1 tvg-id="" tvg-name="AMC BREAK HD" tvg-logo="" group-title="CINE",AMC BREAK HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263465
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263465
 #EXTINF:-1 tvg-id="" tvg-name="AMC BREAK FHD" tvg-logo="" group-title="CINE",AMC BREAK FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263466
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263466
 #EXTINF:-1 tvg-id="" tvg-name="AMC BREAK SD" tvg-logo="" group-title="CINE",AMC BREAK SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263467
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263467
 #EXTINF:-1 tvg-id="" tvg-name="AMC CRIME HD" tvg-logo="" group-title="CINE",AMC CRIME HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263468
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263468
 #EXTINF:-1 tvg-id="" tvg-name="AMC CRIME SD" tvg-logo="" group-title="CINE",AMC CRIME SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263469
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263469
 #EXTINF:-1 tvg-id="" tvg-name="BOM CINE TV" tvg-logo="" group-title="CINE",BOM CINE TV
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263470
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263470
 #EXTINF:-1 tvg-id="" tvg-name="BOM CINE TV" tvg-logo="" group-title="CINE",BOM CINE TV
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263471
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263471
 #EXTINF:-1 tvg-id="" tvg-name="BOM CINE TV" tvg-logo="" group-title="CINE",BOM CINE TV
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263472
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263472
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="" group-title="CINE",HOLLYWOOD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263417
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263417
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="CINE",HOLLYWOOD HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263418
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263418
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="" group-title="CINE",HOLLYWOOD SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263419
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263419
 #EXTINF:-1 tvg-id="" tvg-name="XTRM HD" tvg-logo="" group-title="CINE",XTRM HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263478
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263478
 #EXTINF:-1 tvg-id="" tvg-name="XTRM SD" tvg-logo="" group-title="CINE",XTRM SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263479
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263479
 #EXTINF:-1 tvg-id="" tvg-name="XTRM FHD" tvg-logo="" group-title="CINE",XTRM FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263480
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263480
 #EXTINF:-1 tvg-id="TNTLVHD" tvg-name="WARNER TV" tvg-logo="http://fanc.tmsimg.com/assets/s71727_ll_h3_aa.png" group-title="CINE",WARNER TV
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263413
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263413
 #EXTINF:-1 tvg-id="SUNDEU" tvg-name="SUNDANCE HD" tvg-logo="http://fanc.tmsimg.com/assets/s102816_ll_h3_aa.png" group-title="CINE",SUNDANCE TV
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263362
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263362
 #EXTINF:-1 tvg-id="SUNDEU" tvg-name="SUNDANCE HD" tvg-logo="http://fanc.tmsimg.com/assets/s102816_ll_h3_aa.png" group-title="CINE",SUNDANCE TV
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263363
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263363
 #EXTINF:-1 tvg-id="SUNDEU" tvg-name="SUNDANCE SD" tvg-logo="http://fanc.tmsimg.com/assets/s102816_ll_h3_aa.png" group-title="CINE",SUNDANCE TV
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263364
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263364
 #EXTINF:-1 tvg-id="" tvg-name="BE MAD SD" tvg-logo="" group-title="CINE",BE MAD SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263512
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263512
 #EXTINF:-1 tvg-id="" tvg-name="BE MAD HD" tvg-logo="" group-title="CINE",BE MAD HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263513
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263513
 #EXTINF:-1 tvg-id="DARKSPA" tvg-name="DARK HD" tvg-logo="http://fanc.tmsimg.com/assets/s90324_ll_h3_aa.png" group-title="CINE",DARK HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263367
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263367
 #EXTINF:-1 tvg-id="SOMO" tvg-name="SOMOS" tvg-logo="http://fanc.tmsimg.com/assets/s90363_ll_h3_aa.png" group-title="CINE",SOMOS
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263369
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263369
 #EXTINF:-1 tvg-id="" tvg-name="FDF HD" tvg-logo="" group-title="CINE",FDF HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263457
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263457
 #EXTINF:-1 tvg-id="" tvg-name="M+ SUPERAGENTES" tvg-logo="" group-title="CINE",M+ SUPERAGENTES
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263421
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263421
 #EXTINF:-1 tvg-id="" tvg-name="M+ SUPERAGENTES" tvg-logo="" group-title="CINE",M+ SUPERAGENTES
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263420
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263420
 #EXTINF:-1 tvg-id="" tvg-name="M+ SERIES HD" tvg-logo="" group-title="SERIES",M+ SERIES HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263437
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263437
 #EXTINF:-1 tvg-id="" tvg-name="M+ SERIES FHD" tvg-logo="" group-title="SERIES",M+ SERIES FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263438
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263438
 #EXTINF:-1 tvg-id="" tvg-name="M+ SERIES SD" tvg-logo="" group-title="SERIES",M+ SERIES SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263439
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263439
 #EXTINF:-1 tvg-id="" tvg-name="M+ SERIES 2 FHD" tvg-logo="" group-title="SERIES",M+ SERIES 2 FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263440
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263440
 #EXTINF:-1 tvg-id="" tvg-name="M+ SERIES 2 HD" tvg-logo="" group-title="SERIES",M+ SERIES 2 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263441
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263441
 #EXTINF:-1 tvg-id="" tvg-name="M+ SERIES 2 SD" tvg-logo="" group-title="SERIES",M+ SERIES 2 SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263442
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263442
 #EXTINF:-1 tvg-id="" tvg-name="ATRESERIES" tvg-logo="" group-title="SERIES",ATRESERIES
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263473
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263473
 #EXTINF:-1 tvg-id="" tvg-name="ATRESERIES" tvg-logo="" group-title="SERIES",ATRESERIES
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263474
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263474
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="DOCUMENTAL",NATIONAL GEOGRAPHIC HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263489
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263489
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="DOCUMENTAL",NATIONAL GEOGRAPHIC HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263490
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263490
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="" group-title="DOCUMENTAL",NATIONAL GEOGRAPHIC SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263491
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263491
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="DOCUMENTAL",NAT GEO WILD HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263492
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263492
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD SD" tvg-logo="" group-title="DOCUMENTAL",NAT GEO WILD SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263493
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263493
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO WILD FHD" tvg-logo="" group-title="DOCUMENTAL",NAT GEO WILD FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263494
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263494
 #EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA" tvg-logo="" group-title="DOCUMENTAL",CANAL ODISEA
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263507
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263507
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="DOCUMENTAL",DISCOVERY
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263497
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263497
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="DOCUMENTAL",DISCOVERY
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263498
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263498
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="DOCUMENTAL",DISCOVERY
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263499
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263499
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA HD" tvg-logo="" group-title="DOCUMENTAL",HISTORIA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263514
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263514
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA FHD" tvg-logo="" group-title="DOCUMENTAL",HISTORIA FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263515
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263515
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA SD" tvg-logo="" group-title="DOCUMENTAL",HISTORIA SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263516
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263516
 #EXTINF:-1 tvg-id="" tvg-name="AMC CRIME" tvg-logo="" group-title="DOCUMENTAL",AMC CRIME
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263500
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263500
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA HD" tvg-logo="" group-title="DOCUMENTAL",CANAL COCINA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263501
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263501
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA HD" tvg-logo="" group-title="DOCUMENTAL",CANAL COCINA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263502
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263502
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA HD" tvg-logo="" group-title="DOCUMENTAL",CANAL COCINA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263503
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263503
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA HD" tvg-logo="" group-title="DOCUMENTAL",CANAL DECASA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263504
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263504
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA HD" tvg-logo="" group-title="DOCUMENTAL",CANAL DECASA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263505
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263505
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA HD" tvg-logo="" group-title="DOCUMENTAL",CANAL DECASA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263506
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263506
 #EXTINF:-1 tvg-id="DMAXCH" tvg-name="DMAX" tvg-logo="http://fanc.tmsimg.com/assets/s100349_ll_h3_aa.png" group-title="DOCUMENTAL",DMAX
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263368
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263368
 #EXTINF:-1 tvg-id="TENESP" tvg-name="TEN" tvg-logo="http://fanc.tmsimg.com/assets/s100496_ll_h3_aa.png" group-title="DOCUMENTAL",TEN
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263370
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263370
 #EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA HD" tvg-logo="" group-title="DOCUMENTAL",CAZA Y PESCA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263483
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263483
 #EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA FHD" tvg-logo="" group-title="DOCUMENTAL",CAZA Y PESCA FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263484
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263484
 #EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA SD" tvg-logo="" group-title="DOCUMENTAL",CAZA Y PESCA SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263485
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263485
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="" group-title="DOCUMENTAL",IBERALIA TV
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263486
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263486
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV FHD" tvg-logo="" group-title="DOCUMENTAL",IBERALIA TV
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263487
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263487
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV FHD" tvg-logo="" group-title="DOCUMENTAL",IBERALIA TV
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263488
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263488
 #EXTINF:-1 tvg-id="" tvg-name="NAUTICAL CHANNEL" tvg-logo="" group-title="DOCUMENTAL",NAUTICAL CHANNEL
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263495
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263495
 #EXTINF:-1 tvg-id="" tvg-name="NAUTICAL CHANNEL" tvg-logo="" group-title="DOCUMENTAL",NAUTICAL CHANNEL
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263496
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263496
 #EXTINF:-1 tvg-id="" tvg-name="HORSE TV" tvg-logo="" group-title="DOCUMENTAL",HORSE TV
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263510
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263510
 #EXTINF:-1 tvg-id="" tvg-name="HORSE TV" tvg-logo="" group-title="DOCUMENTAL",HORSE TV
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263511
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263511
 #EXTINF:-1 tvg-id="" tvg-name="LA RESISTENCIA HD" tvg-logo="" group-title="VARIOS",LA RESISTENCIA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263365
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263365
 #EXTINF:-1 tvg-id="" tvg-name="LA RESISTENCIA HD" tvg-logo="" group-title="VARIOS",LA RESISTENCIA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263366
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263366
 #EXTINF:-1 tvg-id="" tvg-name="M+ #0" tvg-logo="" group-title="VARIOS",M+ #0
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263406
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263406
 #EXTINF:-1 tvg-id="" tvg-name="M+ #0" tvg-logo="" group-title="VARIOS",M+ #0
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263407
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263407
 #EXTINF:-1 tvg-id="VAMOS" tvg-name="M+ #VAMOS" tvg-logo="http://fanc.tmsimg.com/assets/s109803_ll_h3_aa.png" group-title="VARIOS",M+ #VAMOS
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/165155
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/165155
 #EXTINF:-1 tvg-id="LA1" tvg-name="La 1 SD" tvg-logo="http://fanc.tmsimg.com/assets/s86913_ll_h3_aa.png" group-title="TDT",La 1 SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263326
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263326
 #EXTINF:-1 tvg-id="LA1" tvg-name="La 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s86913_ll_h3_aa.png" group-title="TDT",La 1 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263327
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263327
 #EXTINF:-1 tvg-id="LA1" tvg-name="LA 1 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s86913_ll_h3_aa.png" group-title="TDT",LA 1 FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263328
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263328
 #EXTINF:-1 tvg-id="LA2" tvg-name="La 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s86914_ll_h3_aa.png" group-title="TDT",La 2 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263329
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263329
 #EXTINF:-1 tvg-id="LA2" tvg-name="LA 2 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s86914_ll_h3_aa.png" group-title="TDT",LA 2 FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263330
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263330
 #EXTINF:-1 tvg-id="LA2" tvg-name="LA 2 SD" tvg-logo="http://fanc.tmsimg.com/assets/s86914_ll_h3_aa.png" group-title="TDT",LA 2 SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263331
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263331
 #EXTINF:-1 tvg-id="ANTENA3" tvg-name="ANTENA 3" tvg-logo="http://fanc.tmsimg.com/assets/s90309_ll_h3_aa.png" group-title="TDT",ANTENA 3
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263332
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263332
 #EXTINF:-1 tvg-id="ANTENA3" tvg-name="ANTENA 3 HD" tvg-logo="http://fanc.tmsimg.com/assets/s90309_ll_h3_aa.png" group-title="TDT",ANTENA 3 HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263333
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263333
 #EXTINF:-1 tvg-id="ANTENA3" tvg-name="ANTENA 3 FHD" tvg-logo="http://fanc.tmsimg.com/assets/s90309_ll_h3_aa.png" group-title="TDT",ANTENA 3 FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263334
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263334
 #EXTINF:-1 tvg-id="CUATRO" tvg-name="CUATRO" tvg-logo="http://fanc.tmsimg.com/assets/s64648_ll_h3_aa.png" group-title="TDT",CUATRO
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263335
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263335
 #EXTINF:-1 tvg-id="CUATRO" tvg-name="CUATRO HD" tvg-logo="http://fanc.tmsimg.com/assets/s64648_ll_h3_aa.png" group-title="TDT",CUATRO HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263336
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263336
 #EXTINF:-1 tvg-id="CUATRO" tvg-name="CUATRO FHD" tvg-logo="http://fanc.tmsimg.com/assets/s64648_ll_h3_aa.png" group-title="TDT",CUATRO FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263337
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263337
 #EXTINF:-1 tvg-id="TELECIN" tvg-name="TELECINCO" tvg-logo="http://fanc.tmsimg.com/assets/s54015_ll_h3_aa.png" group-title="TDT",TELECINCO
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263338
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263338
 #EXTINF:-1 tvg-id="TELECIN" tvg-name="TELECINCO HD" tvg-logo="http://fanc.tmsimg.com/assets/s54015_ll_h3_aa.png" group-title="TDT",TELECINCO HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263339
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263339
 #EXTINF:-1 tvg-id="TELECIN" tvg-name="TELECINCO FHD" tvg-logo="http://fanc.tmsimg.com/assets/s54015_ll_h3_aa.png" group-title="TDT",TELECINCO FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263340
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263340
 #EXTINF:-1 tvg-id="LASEXTA" tvg-name="LA SEXTA" tvg-logo="http://fanc.tmsimg.com/assets/s64649_ll_h3_ab.png" group-title="TDT",LA SEXTA
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263341
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263341
 #EXTINF:-1 tvg-id="LASEXTA" tvg-name="La Sexta HD" tvg-logo="http://fanc.tmsimg.com/assets/s64649_ll_h3_ab.png" group-title="TDT",LA SEXTA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263342
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263342
 #EXTINF:-1 tvg-id="LASEXTA" tvg-name="LA SEXTA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s64649_ll_h3_ab.png" group-title="TDT",LA SEXTA FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263343
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263343
 #EXTINF:-1 tvg-id="NOVANT" tvg-name="NOVA HD" tvg-logo="http://fanc.tmsimg.com/assets/s81786_ll_h3_aa.png" group-title="TDT",NOVA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263344
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263344
 #EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX HD" tvg-logo="http://fanc.tmsimg.com/assets/s78990_ll_h3_ab.png" group-title="TDT",NEOX HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263345
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263345
 #EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX SD" tvg-logo="http://fanc.tmsimg.com/assets/s78990_ll_h3_ab.png" group-title="TDT",NEOX SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263346
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263346
 #EXTINF:-1 tvg-id="MEGSTGO" tvg-name="MEGA HD" tvg-logo="http://fanc.tmsimg.com/assets/s16527_ll_h3_ac.png" group-title="TDT",MEGA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263347
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263347
 #EXTINF:-1 tvg-id="MEGSTGO" tvg-name="MEGA FHD" tvg-logo="http://fanc.tmsimg.com/assets/s16527_ll_h3_ac.png" group-title="TDT",MEGA FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263348
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263348
 #EXTINF:-1 tvg-id="ENERGYE" tvg-name="ENERGY SD" tvg-logo="http://fanc.tmsimg.com/assets/s87042_ll_h3_aa.png" group-title="TDT",ENERGY SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263349
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263349
 #EXTINF:-1 tvg-id="ENERGYE" tvg-name="ENERGY HD" tvg-logo="http://fanc.tmsimg.com/assets/s87042_ll_h3_aa.png" group-title="TDT",ENERGY HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263350
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263350
 #EXTINF:-1 tvg-id="" tvg-name="TELEMADRID" tvg-logo="http://fanc.tmsimg.com/assets/s54025_ll_h3_aa.png" group-title="TDT",TELEMADRID
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263375
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263375
 #EXTINF:-1 tvg-id="" tvg-name="COSMO HD" tvg-logo="" group-title="TDT",COSMO HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263357
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263357
 #EXTINF:-1 tvg-id="" tvg-name="COSMO FHD" tvg-logo="" group-title="TDT",COSMO FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263358
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263358
 #EXTINF:-1 tvg-id="" tvg-name="COSMO SD" tvg-logo="" group-title="TDT",COSMO SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263359
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263359
 #EXTINF:-1 tvg-id="DIVINIT" tvg-name="DIVINITY SD" tvg-logo="http://fanc.tmsimg.com/assets/s87038_ll_h3_aa.png" group-title="TDT",DIVINITY SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263360
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263360
 #EXTINF:-1 tvg-id="DIVINIT" tvg-name="DIVINITY HD" tvg-logo="http://fanc.tmsimg.com/assets/s87038_ll_h3_aa.png" group-title="TDT",DIVINITY HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263361
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263361
 #EXTINF:-1 tvg-id="" tvg-name="24 HORAS SD" tvg-logo="" group-title="TDT",24 HORAS SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263320
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263320
 #EXTINF:-1 tvg-id="" tvg-name="24 HORAS HD" tvg-logo="" group-title="TDT",24 HORAS HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263321
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263321
 #EXTINF:-1 tvg-id="" tvg-name="24 HORAS FHD" tvg-logo="" group-title="TDT",24 HORAS FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263322
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263322
 #EXTINF:-1 tvg-id="SUR" tvg-name="CANAL SUR HD" tvg-logo="http://fanc.tmsimg.com/assets/s12750_ll_h3_aa.png" group-title="TDT",CANAL SUR HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263323
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263323
 #EXTINF:-1 tvg-id="SUR" tvg-name="CANAL SUR SD" tvg-logo="http://fanc.tmsimg.com/assets/s12750_ll_h3_aa.png" group-title="TDT",CANAL SUR SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263324
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263324
 #EXTINF:-1 tvg-id="SUR" tvg-name="CANAL SUR" tvg-logo="http://fanc.tmsimg.com/assets/s12750_ll_h3_aa.png" group-title="TDT",CANAL SUR
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263325
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263325
 #EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="" group-title="TDT",FDF
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263371
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263371
 #EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="" group-title="TDT",EURONEWS
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263372
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263372
 #EXTINF:-1 tvg-id="COCECH" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://fanc.tmsimg.com/assets/s100016_ll_h3_aa.png" group-title="TDT",COMEDY CENTRAL HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263431
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263431
 #EXTINF:-1 tvg-id="COCECH" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://fanc.tmsimg.com/assets/s100016_ll_h3_aa.png" group-title="TDT",COMEDY CENTRAL FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263432
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263432
 #EXTINF:-1 tvg-id="COCECH" tvg-name="Comedy Central SD" tvg-logo="http://fanc.tmsimg.com/assets/s100016_ll_h3_aa.png" group-title="TDT",Comedy Central SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263433
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263433
 #EXTINF:-1 tvg-id="" tvg-name="EL TORO HD" tvg-logo="" group-title="TDT",EL TORO HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263509
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263509
 #EXTINF:-1 tvg-id="" tvg-name="EL TORO SD" tvg-logo="" group-title="TDT",EL TORO SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263508
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263508
 #EXTINF:-1 tvg-id="" tvg-name="NEGOCIOS HD" tvg-logo="" group-title="TDT",NEGOCIOS HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263434
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263434
 #EXTINF:-1 tvg-id="" tvg-name="EL ENCANTADOR DE PERROS" tvg-logo="" group-title="TDT",EL ENCANTADOR DE PERROS
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263435
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263435
 #EXTINF:-1 tvg-id="" tvg-name="MI EXTRANA OBSESION" tvg-logo="" group-title="TDT",MI EXTRANA OBSESION
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263436
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263436
 #EXTINF:-1 tvg-id="" tvg-name="M+ FEST" tvg-logo="" group-title="MUSICA",M+ FEST
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263475
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263475
 #EXTINF:-1 tvg-id="" tvg-name="M+ FEST HD" tvg-logo="" group-title="MUSICA",M+ FEST HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263476
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263476
 #EXTINF:-1 tvg-id="" tvg-name="M+ FEST FHD" tvg-logo="" group-title="MUSICA",M+ FEST FHD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263477
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263477
 #EXTINF:-1 tvg-id="" tvg-name="MTV 00 's" tvg-logo="" group-title="MUSICA",MTV 00 's
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263541
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263541
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="MUSICA",MTV HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263542
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263542
 #EXTINF:-1 tvg-id="" tvg-name="MTV ESPANA" tvg-logo="" group-title="MUSICA",MTV ESPANA
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263543
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263543
 #EXTINF:-1 tvg-id="" tvg-name="CLASSICA HD" tvg-logo="" group-title="MUSICA",CLASSICA HD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263481
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263481
 #EXTINF:-1 tvg-id="" tvg-name="CLASSICA SD" tvg-logo="" group-title="MUSICA",CLASSICA SD
-http://latinotv.xyz:4564/5yRvm2tdss/QpJcXGDx8D/263482
+http://spainxtream.es:8080/5yRvm2tdss/QpJcXGDx8D/263482
