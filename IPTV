@@ -261,8 +261,6 @@ http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1379
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1380
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://static.epg.best/es/MTV.es.png" group-title="MUSICA",MTV
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1385
-#EXTINF:-1 tvg-id="" tvg-name="INTERECONOMIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="TDT",INTERECONOMIA SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1392
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA SD" tvg-logo="https://static.epg.best/es/CanalCocina.es.png" group-title="DOCUMENTAL",CANAL COCINA SD
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1393
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="DOCUMENTAL",NATIONAL GEOGRAPHIC SD
@@ -303,12 +301,10 @@ http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173191
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173192
 #EXTINF:-1 tvg-id="" tvg-name="NAUTICAL HD" tvg-logo="https://www.mediatproducciones.es/wp-content/uploads/elementor/thumbs/logo-nautical-psnsx150p0fta0mmr9jnyk1y1fezbfjrajjx8w4vi6.png" group-title="DOCUMENTAL",NAUTICAL HD
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173193
-#EXTINF:-1 tvg-id="" tvg-name="DARK " tvg-logo="https://ipmark.com/wp-content/uploads/2016/10/DARK-Canal-Televisi%C3%B3n-Terror.png" group-title="DOCUMENTAL",DARK 
+#EXTINF:-1 tvg-id="" tvg-name="DARK" tvg-logo="https://ipmark.com/wp-content/uploads/2016/10/DARK-Canal-Televisi%C3%B3n-Terror.png" group-title="DOCUMENTAL",DARK 
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173194
 #EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="CINE",CALLE 13
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/777
-#EXTINF:-1 tvg-id="" tvg-name="COSMOS" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="TDT",COSMOS
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/778
 #EXTINF:-1 tvg-id="" tvg-name="SOMOS" tvg-logo="https://static.epg.best/es/Somos.es.png" group-title="CINE",SOMOS
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/781
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://static.epg.best/es/ComedyCentral.es.png" group-title="CINE",COMEDY CENTRAL
@@ -367,7 +363,7 @@ http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1420
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1421
 #EXTINF:-1 tvg-id="" tvg-name="M+ SERIESMANIA SD" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="SERIES",M+ SERIESMANIA SD
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1422
-#EXTINF:-1 tvg-id="" tvg-name="M+ VACACIONES tvg-logo="" group-title="CINE",M+ VACACIONES
+#EXTINF:-1 tvg-id="" tvg-name="M+ VACACIONES" tvg-logo="" group-title="CINE",M+ VACACIONES
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1430
 #EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV " tvg-logo="https://static.epg.best/es/SundanceTV.es.png" group-title="CINE",SUNDANCE TV 
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1432
@@ -385,121 +381,7 @@ http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/181412
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173196
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/2560px-AMC_logo_2019.svg.png" group-title="CINE",AMC HD
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173195
-#EXTINF:-1 tvg-id="" tvg-name="ATRESERIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atreseries-es.svg" group-title="SERIES",ATRESERIES 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/37312
-#EXTINF:-1 tvg-id="" tvg-name="DIVINITY HD" tvg-logo="https://static.epg.best/es/Divinity.es.png" group-title="TDT",DIVINITY HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1
-#EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="TDT",LA 1
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/771
-#EXTINF:-1 tvg-id="" tvg-name="LA CUATRO" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="TDT",LA CUATRO
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/772
-#EXTINF:-1 tvg-id="" tvg-name="TELECINCO" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="TDT",TELECINCO
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/773
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL ANTENA 3" tvg-logo="https://www.lyngsat.com/logo/tv/aa/antena3_int.png" group-title="TDT", ANTENA 3
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/775
-#EXTINF:-1 tvg-id="" tvg-name="NEOX TV" tvg-logo="https://static.epg.best/es/Neox.es.png" group-title="TDT",NEOX TV
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/779
-#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="https://static.epg.best/es/Mega.es.png" group-title="TDT",MEGA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/780
-#EXTINF:-1 tvg-id="" tvg-name=" NOVA" tvg-logo="https://static.epg.best/es/Nova.es.png" group-title="TDT", NOVA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/783
-#EXTINF:-1 tvg-id="" tvg-name="EL TORO" tvg-logo="" group-title="TDT",EL TORO
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/791
-#EXTINF:-1 tvg-id="" tvg-name=" TEN CHANNEL" tvg-logo="https://static.epg.best/es/Ten.es.png" group-title="TDT", TEN CHANNEL
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/826
-#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="TDT",LA SEXTA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/839
-#EXTINF:-1 tvg-id="" tvg-name=" TELEDEPORTE" tvg-logo="https://static.epg.best/es/Teledeporte.es.png" group-title="DEPORTES", TELEDEPORTE
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="https://static.epg.best/es/Teledeporte.es.png" group-title="DEPORTES", TELEDEPORTE
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/844
-#EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="TDT",LA 2
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/853
-#EXTINF:-1 tvg-id="" tvg-name="ENERGY " tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="TDT",ENERGY 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/854
-#EXTINF:-1 tvg-id="" tvg-name=" FDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="TDT", FDF HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/855
-#EXTINF:-1 tvg-id="" tvg-name="LA 2 SD" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="TDT",LA 2 SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1359
-#EXTINF:-1 tvg-id="" tvg-name=" LA SEXTA SD" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="TDT", LA SEXTA SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1360
-#EXTINF:-1 tvg-id="" tvg-name="DIVINITY SD" tvg-logo="https://static.epg.best/es/Divinity.es.png" group-title="TDT",DIVINITY SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1364
-#EXTINF:-1 tvg-id="" tvg-name=" FDF SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="TDT", FDF SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1365
-#EXTINF:-1 tvg-id="" tvg-name="ENERGY SD" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="TDT",ENERGY SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1367
-#EXTINF:-1 tvg-id="" tvg-name="BE MAD SD" tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="TDT",BE MAD SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1368
-#EXTINF:-1 tvg-id="" tvg-name="24HRS SD" tvg-logo="https://static.epg.best/es/24Horas.es.png" group-title="TDT",24HRS SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1369
-#EXTINF:-1 tvg-id="" tvg-name="DMAX SD" tvg-logo="https://static.epg.best/es/Dmax.es.png" group-title="TDT",DMAX SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1377
-#EXTINF:-1 tvg-id="" tvg-name=" ANTENA 3 SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/antena3_int.png" group-title="TDT", ANTENA 3 SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1399
-#EXTINF:-1 tvg-id="" tvg-name=" CUATRO " tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="TDT", CUATRO 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1406
-#EXTINF:-1 tvg-id="" tvg-name=" DKISS SD" tvg-logo="https://static.epg.best/es/DKISS.es.png" group-title="TDT", DKISS SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1408
-#EXTINF:-1 tvg-id="" tvg-name=" LA 1 SD" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="TDT", LA 1 SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1416
-#EXTINF:-1 tvg-id="" tvg-name="TELECINCO SD" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="TDT",TELECINCO SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1435
-#EXTINF:-1 tvg-id="" tvg-name=" EL TORO" tvg-logo="" group-title="TDT",EL TORO
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1437
-#EXTINF:-1 tvg-id="" tvg-name="LA OTRA TV" tvg-logo="https://static.epg.best/es/LaOtra.es.png" group-title="TDT",LA OTRA TV
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/828
-#EXTINF:-1 tvg-id="" tvg-name="TELEMADRID" tvg-logo="https://static.epg.best/es/TeleMadrid.es.png" group-title="TDT",TELEMADRID
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/845
-#EXTINF:-1 tvg-id="" tvg-name="TV GALICIA" tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="TDT",TV GALICIA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/846
-#EXTINF:-1 tvg-id="" tvg-name="ETB 1 SD" tvg-logo="https://static.epg.best/es/ETB1.es.png" group-title="TDT",ETB 1 SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1390
-#EXTINF:-1 tvg-id="" tvg-name="ETB 2 SD" tvg-logo="https://static.epg.best/es/ETB2.es.png" group-title="TDT",ETB 2 SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1391
-#EXTINF:-1 tvg-id="" tvg-name="CANAL EXTREMADURA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1200px-CEXMA_new.png" group-title="TDT",CANAL EXTREMADURA 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173184
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/1200px-Andaluc%C3%ADa_TV_2018_logo.svg.png" group-title="TDT",CANAL SUR 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173185
-#EXTINF:-1 tvg-id="" tvg-name="CANAL ONDA CADIZ" tvg-logo="http://adc-ondemand.flumotion.com/upload/image/2020/5/logo-onda-cadiz-16-9-5ebcf6f7.png" group-title="TDT",CANAL ONDA CADIZ
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173186
-#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TVE_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1200px-Logo_TVE-HD.svg.png" group-title="TDT",TVE_HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/181542
-#EXTINF:-1 tvg-id="" tvg-name="RT ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" group-title="TDT",RT ESPANA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/776
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="INFANTIL",DISNEY CHANNEL
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/785
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="INFANTIL",NICKELODEON
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/842
-#EXTINF:-1 tvg-id="" tvg-name="BOING SD" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="INFANTIL",BOING SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1370
-#EXTINF:-1 tvg-id="" tvg-name="PANDA SD" tvg-logo="https://static.epg.best/es/CanalPanda.es.png" group-title="INFANTIL",PANDA SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1371
-#EXTINF:-1 tvg-id="" tvg-name="NICKELEODEON SD" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="INFANTIL",NICKELEODEON SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1372
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR SD" tvg-logo="https://static.epg.best/es/DisneyJunior.es.png" group-title="INFANTIL",DISNEY JR SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1373
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR SD" tvg-logo="https://static.epg.best/es/NickJr.es.png" group-title="INFANTIL",NICK JR SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1375
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="INFANTIL",BABY TV SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1376
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="INFANTIL",DISNEY CHANNEL SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1407
-#EXTINF:-1 tvg-id="" tvg-name="PEQUERADIO TV " tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="INFANTIL",PEQUERADIO TV 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/185273
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV CANADA" tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA TV CANADA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199382
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA TV HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199383
-#EXTINF:-1 tvg-id="" tvg-name="NBA | TNT   " tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA | TNT   
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199384
-#EXTINF:-1 tvg-id="" tvg-name="NBA 1 |  OP 1 " tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA 1 |  OP 1 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199385
-#EXTINF:-1 tvg-id="" tvg-name="NBA 2 |  OP 2" tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA 2 |  OP 2
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199386
-#EXTINF:-1 tvg-id="" tvg-name="NBA 3 | OP 3" tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA 3 | OP 3
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199387
-#EXTINF:-1 tvg-id="" tvg-name="NBA 4 | DEPORTES" tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA 4 | DEPORTES
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199388
-#EXTINF:-1 tvg-id="" tvg-name="NBA 5 | OFFLINE" tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA 5 | OFFLINE
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199389
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="TOROS",MUNDOTORO
 http://ee.besata88.top/xdr117663808630/880021910693/420043
