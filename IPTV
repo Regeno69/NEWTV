@@ -355,9 +355,9 @@ http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1414
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1418
 #EXTINF:-1 tvg-id="" tvg-name="M+ DRAMA" tvg-logo="https://static.epg.best/es/MovistarDrama.es.png" group-title="CINE",M+ DRAMA 
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1420
-#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES SD" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="SERIES",M+ SERIES SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES SD" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="CINE",M+ SERIES SD
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1421
-#EXTINF:-1 tvg-id="" tvg-name="M+ SERIESMANIA SD" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="SERIES",M+ SERIESMANIA SD
+#EXTINF:-1 tvg-id="" tvg-name="M+ SERIESMANIA SD" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="CINE",M+ SERIESMANIA SD
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1422
 #EXTINF:-1 tvg-id="" tvg-name="M+ VACACIONES" tvg-logo="" group-title="CINE",M+ VACACIONES
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1430
