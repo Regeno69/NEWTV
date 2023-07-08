@@ -237,7 +237,7 @@ http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/789
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/790
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="DOCUMENTAL",AMC
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/808
-#EXTINF:-1 tvg-id="" tvg-name=" FOX LIFE" tvg-logo="https://static.epg.best/es/FoxLife.es.png" group-title="DOCUMENTAL", FOX LIFE
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://static.epg.best/es/FoxLife.es.png" group-title="DOCUMENTAL", FOX LIFE
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/814
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="DOCUMENTAL",DISCOVERY CHANNEL
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/836
@@ -257,7 +257,7 @@ http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1363
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1378
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="DOCUMENTAL",NATGEO WILD
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1379
-#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME" tvg-logo="https://static.epg.best/es/CrimenInvestigacion.es.png" group-title="DOCUMENTAL",AMC CRIMECRIMEN & INVESTIGACION SD
+#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME" tvg-logo="https://static.epg.best/es/CrimenInvestigacion.es.png" group-title="DOCUMENTAL",AMC CRIME
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1380
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://static.epg.best/es/MTV.es.png" group-title="MUSICA",MTV
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1385
@@ -377,7 +377,7 @@ http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/181412
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173196
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/2560px-AMC_logo_2019.svg.png" group-title="CINE",AMC HD
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173195
-#EXTINF:-1 tvg-id="" tvg-name=" TELEDEPORTE" tvg-logo="https://static.epg.best/es/Teledeporte.es.png" group-title="DEPORTES", TELEDEPORTE
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="https://static.epg.best/es/Teledeporte.es.png" group-title="DEPORTES", TELEDEPORTE
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/844
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV CANADA" tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA TV CANADA
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199382
