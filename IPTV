@@ -27,7 +27,7 @@ http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/795
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25972
 #EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS" tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/08/Vamos.png" group-title="VAMOS",M+ #VAMOS
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/29760
-#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS" tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/09/vamos-movistar.png" group-title="VAMOS",M+ #VAMOS
+#EXTINF:-1 tvg-id="" tvg-name="M+ #0" tvg-logo="" group-title="VAMOS",M+ #0
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31376
 #EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/640px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="VAMOS",M+ #VAMOS
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31377
@@ -107,7 +107,7 @@ http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/797
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/799
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 1" tvg-logo="https://static.epg.best/es/Eurosport1.es.png" group-title="DEPORTES",EUROSPORTS 1
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/827
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 3" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="DEPORTES",M+ DEPORTES 3
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="DEPORTES",M+ DEPORTES
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/840
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 2" tvg-logo="https://static.epg.best/es/Eurosport2.es.png" group-title="DEPORTES",EUROSPORTS 2
 http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1394
