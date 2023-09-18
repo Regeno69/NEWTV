@@ -1,399 +1,503 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26383
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26383
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ESPN 1 HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo.png" group-title="DEPORTE EUROPA",ESPN 1 HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26542
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26542
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ESPN 2 HD (N)" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo.png" group-title="DEPORTE EUROPA",ESPN 2 HD (N)
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26543
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26543
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="ESPN 3 HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo.png" group-title="DEPORTE EUROPA",ESPN 3 HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26544
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26544
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26546
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26546
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES " tvg-logo="https://1000marcas.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26551
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26551
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26555
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26555
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/800px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31392
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31392
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/800px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31393
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31393
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/63523
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/63523
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/10/UEFA-Champions-League-Logo.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/63524
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA" tvg-logo="" group-title="LA LIGA",DAZN LA LIGA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/795
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/63524
+#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS" tvg-logo="https://static.epg.best/es/Vamos.es.png" group-title="VAMOS",M+ #VAMOS
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/795
 #EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS" tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/08/Vamos.png" group-title="VAMOS",M+ #VAMOS
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25972
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA" tvg-logo="" group-title="LA LIGA",DAZN LA LIGA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/29760
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA" tvg-logo="" group-title="LA LIGA",DAZN LA LIGA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31376
-#EXTINF:-1 tvg-id="" tvg-name="M+ #0" tvg-logo="" group-title="VAMOS",M+ #0
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31377
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA" tvg-logo="" group-title="LA LIGA",DAZN LA LIGA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31378
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25972
+#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS" tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/08/Vamos.png" group-title="VAMOS",M+ #VAMOS
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/29760
+#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS" tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/09/vamos-movistar.png" group-title="VAMOS",M+ #VAMOS
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31376
+#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/640px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="VAMOS",M+ #VAMOS
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31377
+#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS" tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/08/Vamos.png" group-title="VAMOS",M+ #VAMOS
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31378
 #EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS " tvg-logo="https://www.cuartacobertura.es/wp-content/uploads/2018/08/Vamos.png" group-title="VAMOS",M+ #VAMOS 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31379
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31379
 #EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" group-title="VAMOS",M+ #VAMOS
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/142590
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" group-title="LA LIGA",DAZN LA LIGA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/142591
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/142590
+#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" group-title="VAMOS",M+ #VAMOS
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/142591
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="DAZN",DAZN 1
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191350
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191350
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="DAZN",DAZN 2
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191351
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191351
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="DAZN",DAZN 3
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191352
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191352
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="DAZN",DAZN 4
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191353
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191353
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="DAZN",DAZN 1 HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191354
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191354
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="DAZN",DAZN 2 HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191355
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191355
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="DAZN",DAZN 3 HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191356
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191356
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png" group-title="DAZN",DAZN 4 HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191357
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191357
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN FORMULA 1 ",DAZN F1 4K
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/63525
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/63525
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN FORMULA 1 ",DAZN F1 HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191358
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191358
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN FORMULA 1 ",DAZN F1 HD+
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191359
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191359
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN FORMULA 1 ",DAZN F1 SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/211006
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/211006
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN FORMULA 1 ",DAZN F1 HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/211007
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/211007
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1 EXTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN FORMULA 1 ",DAZN F1 EXTRA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/211008
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/211008
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1280px-DAZN_LaLiga_logo.svg.png" group-title="LA LIGA",DAZN LA LIGA HD+
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191052
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191052
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA SD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/800px-DAZN_LaLiga_logo.svg.png" group-title="LA LIGA",DAZN LIGA SD+
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191053
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191053
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LIGA 2 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/800px-DAZN_LaLiga_logo.svg.png" group-title="LA LIGA",DAZN LIGA 2 HD+
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191054
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191054
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="LA LIGA",M+ LALIGA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191055
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191055
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="LA LIGA",M+ LALIGA HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191056
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191056
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="LA LIGA",M+ LALIGA 2
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191057
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191057
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="LA LIGA",M+ LALIGA 2
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191058
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191058
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="LA LIGA",M+ LALIGA 3
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191059
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191059
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="LA LIGA",M+ LALIGA 4
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191060
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191060
 #EXTINF:-1 tvg-id="" tvg-name="LA LIGA HYPERMOTION" tvg-logo="https://picaoplomo.com/wp-content/uploads/2020/01/logoSegundaDivision.png" group-title="HYPERMOTION",LA LIGA HYPERMOTION
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191061
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191061
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/2560px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="LA LIGA",M+ LALIGA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191062
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191062
 #EXTINF:-1 tvg-id="" tvg-name="GOLTV SD" tvg-logo="https://static.epg.best/es/Gol.es.png" group-title="DEPORTES",GOLTV SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1381
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1381
 #EXTINF:-1 tvg-id="" tvg-name="GOL" tvg-logo="https://static.epg.best/es/Gol.es.png" group-title="DEPORTES",GOL
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1412
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1412
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://static.epg.best/es/Eurosport1.es.png" group-title="DEPORTES",EUROSPORT 1
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/73
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/73
 #EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV" tvg-logo="https://static.epg.best/es/RealMadridTV.es.png" group-title="DEPORTES",REAL MADRID TV
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/285
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/285
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="M+ #0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="VAMOS",M+ #0
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/793
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/793
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/800px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="LA LIGA",M+ LALIGA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/796
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/796
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="LA LIGA",M+ LALIGA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/797
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/797
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/799
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/799
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 1" tvg-logo="https://static.epg.best/es/Eurosport1.es.png" group-title="DEPORTES",EUROSPORTS 1
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/827
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="DEPORTES",M+ DEPORTES
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/840
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/827
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 3" tvg-logo="https://static.epg.best/es/MDeportes1.es.png" group-title="DEPORTES",M+ DEPORTES 3
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/840
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORTS 2" tvg-logo="https://static.epg.best/es/Eurosport2.es.png" group-title="DEPORTES",EUROSPORTS 2
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1394
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1394
 #EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="M+ #0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/1200px-0_Movistar%2B.svg.png" group-title="VAMOS",M+ #0
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1396
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1396
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 2" tvg-logo="https://static.epg.best/es/MLaLiga2.es.png" group-title="LA LIGA",M+ LALIGA 2
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1426
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1426
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2" tvg-logo="https://static.epg.best/es/LigaDeCampeones2.es.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 2
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/24735
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/24735
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 7" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_Liga_de_Campeones_7.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 7
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/24740
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/24740
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="LA LIGA",M+ LALIGA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25931
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25931
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="LA LIGA",M+ LALIGA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25933
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25933
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA BAR" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftecnohoreca.com%2Flaligatv-bar-incorpora-opcion-en-ingles-a-sus-canales-de-audio%2F&psig=AOvVaw2RlMmA5Rimt5cHII2k50cf&ust=1639330246644000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiK1puj3PQCFQAAAAAdAAAAABAD" group-title="LA LIGA",M+ LALIGA BAR
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25936
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25936
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA BAR" tvg-logo="" group-title="LA LIGA",M+ LALIGA BAR
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25938
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25938
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 2" tvg-logo="https://static.epg.best/es/MLaLiga2.es.png" group-title="LA LIGA",M+ LALIGA 2
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25943
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25943
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 3" tvg-logo="https://static.epg.best/es/MLaLiga3.es.png" group-title="LA LIGA",M+ LALIGA 3
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25945
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25945
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 2" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7864_41a_1_c00000_0_0_0.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 2
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25962
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25962
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="https://static.epg.best/es/Eurosport2.es.png" group-title="DEPORTES",EUROSPORT 1
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25973
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/25973
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 5" tvg-logo="" group-title="LA LIGA",M+LALIGA 5
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26831
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26831
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA 2" tvg-logo="" group-title="LA LIGA",M+ LALIGA 2
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26828
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26828
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV BAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="LA LIGA",M+ LA LIGA TV BAR
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26827
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26827
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="https://static.epg.best/es/LigaDeCampeones.es.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26825
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26825
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="LA LIGA",M+ LALIGA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26625
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26625
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES 3" tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_Liga_de_Campeones_3.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES 3
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26838
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26838
 #EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA" tvg-logo="https://static.epg.best/es/MLaLiga.es.png" group-title="LA LIGA",M+ LALIGA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/28035
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/28035
 #EXTINF:-1 tvg-id="" tvg-name="DAZN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="LA LIGA",DAZN HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191063
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191063
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Liga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="LA LIGA",DAZN Liga HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191064
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191064
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="DEPORTES",SKY SPORT
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191065
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191065
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="LA LIGA",DAZN LA LIGA HD+
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191066
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191066
 #EXTINF:-1 tvg-id="" tvg-name="M+ LIGA DE CAMPEONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/2560px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CHAMPIONS",M+ LIGA DE CAMPEONES
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191067
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191067
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="LA LIGA",DAZN LA LIGA HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191068
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191068
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png" group-title="LA LIGA",DAZN LA LIGA SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191069
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191069
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA HD+" tvg-logo="https://images.laligasportstv.com/llstv-suscripciones/saas/Pro/Web/logo-LLSTV.png" group-title="LA LIGA",DAZN LA LIGA HD+
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191070
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/191070
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA HYPERMOTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="HYPERMOTION",LALIGA HYPERMOTION
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/210988
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/210988
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA HYPERMOTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="HYPERMOTION",LALIGA HYPERMOTION
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/210989
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/210989
 #EXTINF:-1 tvg-id="" tvg-name="LALIGA HYPERMOTION 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="HYPERMOTION",LALIGA HYPERMOTION 3
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/210990
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/210990
 #EXTINF:-1 tvg-id="" tvg-name="ORANGE LIGA" tvg-logo="https://app-cdn.acelitchi.com/prod/app/3/29/6412273641607992545.webp" group-title="LA LIGA",ORANGE LIGA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/211005
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/211005
 #EXTINF:-1 tvg-id="" tvg-name="GOLF CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf_channel_us.png" group-title="DEPORTE EUROPA",GOLF CHANNEL
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/75
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/75
 #EXTINF:-1 tvg-id="" tvg-name="ATG" tvg-logo="https://es.live-tv-channels.org/pt-data/uploads/logo/se-atg-tv.jpg" group-title="DEPORTE EUROPA",ATG
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/282
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/282
 #EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="https://image.roku.com/developer_channels/prod/0560cd3757ba28d0525e524fe0d98c1b95721c5ecf5fda464eba3084eeed7f36.png" group-title="DEPORTE EUROPA",RED BULL TV
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/286
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/286
 #EXTINF:-1 tvg-id="" tvg-name="ALKASS SPORTS FOUR" tvg-logo="https://www.paralympic.org/sites/default/files/styles/large_original/public/images/151015132852742_Incredible%2BSupport.png?itok=dppEAl9h" group-title="DEPORTE EUROPA",ALKASS SPORTS FOUR
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26644
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/26644
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sky_Sports_2007_logo.svg/2560px-Sky_Sports_2007_logo.svg.png" group-title="DEPORTE EUROPA",SKY SPORTS (MX)
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27786
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27786
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS Ñ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sky_Sports_2007_logo.svg/2560px-Sky_Sports_2007_logo.svg.png" group-title="DEPORTE EUROPA",SKY SPORTS Ñ
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27787
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27787
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA LIGA EXTRA" tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2019/07/MovistarLaLiga1024.png" group-title="LA LIGA",M+ LALIGA EXTRA 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27788
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27788
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS SPAIN OP [HD]  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sky_Sports_2007_logo.svg/2560px-Sky_Sports_2007_logo.svg.png" group-title="DEPORTE EUROPA",SKY SPORTS SPAIN OP [HD]  
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27789
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27789
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS OP3 [HD] " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTE EUROPA",BEIN SPORTS OP3 [HD] 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27790
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27790
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS ÑOP2 [HD]  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTE EUROPA",BEIN SPORTS ÑOP2 [HD]  
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27791
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27791
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS Ñ OP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTE EUROPA",BEIN SPORTS Ñ OP
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27792
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27792
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS Ñ [HD] " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTE EUROPA",BEIN SPORTS Ñ [HD] 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27793
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27793
 #EXTINF:-1 tvg-id="I873.76943.schedulesdirect.org" tvg-name="BEIN SPORTS Ñ [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTE EUROPA",BEIN SPORTS Ñ [SD]
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27794
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27794
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA  [HD] " tvg-logo="https://www.thesportsdb.com/images/media/logo/n7f8ev1600884470.png" group-title="DEPORTE EUROPA",BEIN SPORTS XTRA  [HD] 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27967
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27967
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3  (US) [HD]  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/1200px-Logo_beIN_SPORTS_3.png" group-title="DEPORTE EUROPA",BEIN SPORTS 3  (US) [HD]  
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27970
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27970
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1" tvg-logo="https://archive.org/download/SkySportsF1New_201708/sky%20sports%20f1%20new.png" group-title="DEPORTE EUROPA",SKY SPORTS F1
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/148298
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/148298
 #EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="DEPORTES",TELEDEPORTE HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/142740
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/142740
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="DEPORTES",EUROSPORT 2 HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/111215
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/111215
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurosport_Logo_2015.png/1200px-Eurosport_Logo_2015.png" group-title="DEPORTES",EUROSPORT 1 HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/111214
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/111214
 #EXTINF:-1 tvg-id="" tvg-name="GOLTV" tvg-logo="https://tvendirecto.online/wp-content/uploads/2021/11/Gol-TV.png" group-title="DEPORTES",GOLTV
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31396
-#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORT" tvg-logo="" group-title="DEPORTE EUROPA",NOVA SPORT
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/108341
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31396
+#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NovaSport.png/640px-NovaSport.png" group-title="DEPORTE EUROPA",NOVA SPORT
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/108341
 #EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/t/o/r/torostv.jpg" group-title="TOROS",MUNDOTORO 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31397
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 (UK)  [HD]  " tvg-logo="" group-title="DEPORTE EUROPA",BEIN SPORTS 1 (UK)  [HD]  
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27968
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 (US) [HD]  " tvg-logo="" group-title="DEPORTE EUROPA",BEIN SPORTS 2 (US) [HD]  
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27969
-#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORT HD " tvg-logo="" group-title="DEPORTE EUROPA",NOVA SPORT HD 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/108342
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4  (US)  [HD] " tvg-logo="" group-title="DEPORTE EUROPA",BEIN SPORTS 4  (US)  [HD] 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27971
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/31397
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 (UK)  [HD]  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_beIN_SPORTS_1.png/1200px-Logo_beIN_SPORTS_1.png" group-title="DEPORTE EUROPA",BEIN SPORTS 1 (UK)  [HD]  
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27968
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 (US) [HD]  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="DEPORTE EUROPA",BEIN SPORTS 2 (US) [HD]  
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27969
+#EXTINF:-1 tvg-id="" tvg-name="NOVA SPORT HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NovaSport.png/640px-NovaSport.png" group-title="DEPORTE EUROPA",NOVA SPORT HD 
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/108342
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4  (US)  [HD] " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="DEPORTE EUROPA",BEIN SPORTS 4  (US)  [HD] 
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/27971
 #EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="DOCUMENTAL",CANAL ODISEA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/784
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/784
 #EXTINF:-1 tvg-id="" tvg-name="CAZA & PESCA" tvg-logo="https://static.epg.best/es/CazaPesca.es.png" group-title="DOCUMENTAL",CAZA & PESCA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/786
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/786
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="DOCUMENTAL",HISTORIA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/788
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/788
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="DOCUMENTAL",NAT GEO WILD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/789
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/789
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="DOCUMENTAL",NATIONAL GEOGRAPHIC
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/790
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/790
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="DOCUMENTAL",AMC
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/808
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://static.epg.best/es/FoxLife.es.png" group-title="DOCUMENTAL", FOX LIFE
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/814
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/808
+#EXTINF:-1 tvg-id="" tvg-name=" FOX LIFE" tvg-logo="https://static.epg.best/es/FoxLife.es.png" group-title="DOCUMENTAL", FOX LIFE
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/814
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="DOCUMENTAL",DISCOVERY CHANNEL
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/836
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/836
 #EXTINF:-1 tvg-id="" tvg-name="SELEKT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Select_sport_logo.png" group-title="DOCUMENTAL",SELEKT
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/843
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/843
 #EXTINF:-1 tvg-id="" tvg-name="VIAJAR" tvg-logo="https://static.epg.best/es/Viajar.es.png" group-title="DOCUMENTAL",VIAJAR
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/847
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/847
 #EXTINF:-1 tvg-id="" tvg-name="DARK" tvg-logo="https://static.epg.best/es/Dark.es.png" group-title="DOCUMENTAL",DARK
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/850
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/850
 #EXTINF:-1 tvg-id="" tvg-name="DE CASA SD" tvg-logo="https://static.epg.best/es/CanalDecasa.es.png" group-title="DOCUMENTAL",DE CASA SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1361
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1361
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://static.epg.best/es/Viajar.es.png" group-title="MUSICA",MTV
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1362
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1362
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="https://static.epg.best/es/CanalCocina.es.png" group-title="DOCUMENTAL",CANAL COCINA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1363
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1363
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://static.epg.best/es/DiscoveryChannel.es.png" group-title="DOCUMENTAL",DISCOVERY
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1378
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="DOCUMENTAL",NATGEO WILD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1379
-#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME" tvg-logo="https://static.epg.best/es/CrimenInvestigacion.es.png" group-title="DOCUMENTAL",AMC CRIME
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1380
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1378
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="DOCUMENTAL",NATGEO WILD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1379
+#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME" tvg-logo="https://static.epg.best/es/CrimenInvestigacion.es.png" group-title="DOCUMENTAL",AMC CRIMECRIMEN & INVESTIGACION SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1380
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://static.epg.best/es/MTV.es.png" group-title="MUSICA",MTV
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1385
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1385
+#EXTINF:-1 tvg-id="" tvg-name="INTERECONOMIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Intereconom%C3%ADa.png" group-title="TDT",INTERECONOMIA SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1392
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA SD" tvg-logo="https://static.epg.best/es/CanalCocina.es.png" group-title="DOCUMENTAL",CANAL COCINA SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1393
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1393
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://static.epg.best/es/NationalGeographic.es.png" group-title="DOCUMENTAL",NATIONAL GEOGRAPHIC SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1395
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1395
 #EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="https://static.epg.best/es/AMC.es.png" group-title="DOCUMENTAL",AMC SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1398
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1398
 #EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA" tvg-logo="https://static.epg.best/es/Odisea.es.png" group-title="DOCUMENTAL",CANAL ODISEA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1403
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1403
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE SD" tvg-logo="https://static.epg.best/es/FoxLife.es.png" group-title="DOCUMENTAL",FOX LIFE SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1411
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1411
 #EXTINF:-1 tvg-id="" tvg-name="HISTORIA SD" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="DOCUMENTAL",HISTORIA SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1413
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1413
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="https://static.epg.best/es/IberaliaTV.es.png" group-title="DOCUMENTAL",IBERALIA TV
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1415
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1415
 #EXTINF:-1 tvg-id="" tvg-name="VH1 SD" tvg-logo="https://zap2it.tmsimg.com///zap2it.tmsimg.com/h3/NowShowing/11218/s11218_h3_aa.png" group-title="MUSICA",VH1 SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1438
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1438
 #EXTINF:-1 tvg-id="" tvg-name="BLAZER HD" tvg-logo="" group-title="DOCUMENTAL",BLAZER HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/41489
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/41489
 #EXTINF:-1 tvg-id="" tvg-name="BLAZER_FULL_HD" tvg-logo="" group-title="DOCUMENTAL",BLAZER_FULL_HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/41490
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/41490
+#EXTINF:-1 tvg-id="" tvg-name=" Castilla-La Mancha Media" tvg-logo="https://www.m3u.cl/logo/605_Castilla_La_Mancha_Media.png" group-title="TDT", Castilla-La Mancha Media
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/80745
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="http://tinsat.ddns.net/Espa%c3%b1a/Iberalia-1_0_1_746A_3F0_1_C00000_0_0_0.png" group-title="DOCUMENTAL",IBERALIA TV
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/148530
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/148530
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="http://tinsat.ddns.net/Espa%c3%b1a/Iberalia-1_0_1_746A_3F0_1_C00000_0_0_0.png" group-title="DOCUMENTAL",IBERALIA TV
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/148531
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/148531
 #EXTINF:-1 tvg-id="" tvg-name="CAZAVISION" tvg-logo="https://masmediatv.es/images/2020/10/28/canal-cazavision-removebg-preview.png" group-title="DOCUMENTAL",CAZAVISION
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173187
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173187
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/91997942b1a123a5780616e03acfa3cb_DECASA-NUEVO-LOGO-CANALTUAMC.png" group-title="DOCUMENTAL",CANAL DECASA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173188
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173188
 #EXTINF:-1 tvg-id="" tvg-name="HORSE TV" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=f2a227&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fhorsetv.png" group-title="DOCUMENTAL",HORSE TV
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173189
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173189
 #EXTINF:-1 tvg-id="" tvg-name="M+ FEST" tvg-logo="https://miguia.tv/channels/big_337@2x.png" group-title="MUSICA",M+ FEST
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173190
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173190
 #EXTINF:-1 tvg-id="" tvg-name="M+ LA RESISTENCIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="VAMOS",M+ LA RESISTENCIA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173191
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173191
 #EXTINF:-1 tvg-id="" tvg-name="U-BEAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ubeat.png/640px-Ubeat.png" group-title="DOCUMENTAL",U-BEAT
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173192
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173192
 #EXTINF:-1 tvg-id="" tvg-name="NAUTICAL HD" tvg-logo="https://www.mediatproducciones.es/wp-content/uploads/elementor/thumbs/logo-nautical-psnsx150p0fta0mmr9jnyk1y1fezbfjrajjx8w4vi6.png" group-title="DOCUMENTAL",NAUTICAL HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173193
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173193
 #EXTINF:-1 tvg-id="" tvg-name="DARK " tvg-logo="https://ipmark.com/wp-content/uploads/2016/10/DARK-Canal-Televisi%C3%B3n-Terror.png" group-title="DOCUMENTAL",DARK 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173194
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173194
 #EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="CINE",CALLE 13
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/777
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/777
+#EXTINF:-1 tvg-id="" tvg-name="COSMOS" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="TDT",COSMOS
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/778
 #EXTINF:-1 tvg-id="" tvg-name="SOMOS" tvg-logo="https://static.epg.best/es/Somos.es.png" group-title="CINE",SOMOS
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/781
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/781
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://static.epg.best/es/ComedyCentral.es.png" group-title="CINE",COMEDY CENTRAL
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/782
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/782
 #EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://static.epg.best/es/TCM.es.png" group-title="CINE",TCM
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/809
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/809
 #EXTINF:-1 tvg-id="" tvg-name="AXN WHITE" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="CINE",AXN WHITE
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/811
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/811
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://static.epg.best/es/AXN.es.png" group-title="CINE",AXN
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/812
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/812
 #EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="CINE",FOX
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/813
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/813
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="CINE",HOLLYWOOD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/815
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/815
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://static.epg.best/es/TNT.es.png" group-title="CINE",TNT
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/816
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/816
 #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="CINE",SYFY
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/818
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/818
 #EXTINF:-1 tvg-id="" tvg-name="M+ ACCION" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png" group-title="CINE",M+ ACCION
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/819
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/819
 #EXTINF:-1 tvg-id="" tvg-name="M+ DRAMA" tvg-logo="https://static.epg.best/es/MovistarDrama.es.png" group-title="CINE",M+ DRAMA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/820
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/820
 #EXTINF:-1 tvg-id="" tvg-name="M+ SERIES" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="CINE",M+ SERIES
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/822
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/822
 #EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS" tvg-logo="https://static.epg.best/es/MovistarEstrenos.es.png" group-title="CINE",M+ ESTRENOS
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/824
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/824
 #EXTINF:-1 tvg-id="" tvg-name="M+ CINE DOC&ROLL" tvg-logo="https://static.epg.best/es/MovistarCineDocRoll.es.png" group-title="CINE",M+ CINE DOC&ROLL
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/825
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/825
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT HD" tvg-logo="https://static.epg.best/es/ParamountChannel.es.png" group-title="CINE",PARAMOUNT HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1384
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1384
 #EXTINF:-1 tvg-id="" tvg-name="BOM CINE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1280px-Logo-bom.svg.png" group-title="CINE",BOM CINE TV
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1386
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1386
 #EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPAÑOL" tvg-logo="https://static.epg.best/es/DCineEspanol.es.png" group-title="CINE",M+ CINE ESPAÑOL
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1387
-#EXTINF:-1 tvg-id="" tvg-name="CINE M+" tvg-logo="https://pbs.twimg.com/profile_images/1564617376951410689/32BQwgB5_400x400.jpg" group-title="CINE",CINE M+
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1388
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1387
+#EXTINF:-1 tvg-id="" tvg-name="M+ CINE ESPAÑOL" tvg-logo="https://static.epg.best/es/MovistarCineEspanol.es.png" group-title="CINE",M+ CINE ESPAÑOL
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1388
 #EXTINF:-1 tvg-id="" tvg-name="AXN SD" tvg-logo="https://static.epg.best/es/AXN.es.png" group-title="CINE",AXN SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1400
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1400
 #EXTINF:-1 tvg-id="" tvg-name="AXN WHITE SD" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="CINE",AXN WHITE SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1401
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1401
 #EXTINF:-1 tvg-id="" tvg-name="CALLE 13 SD" tvg-logo="https://static.epg.best/es/Calle13.es.png" group-title="CINE",CALLE 13 SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1402
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1402
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://static.epg.best/es/ComedyCentral.es.png" group-title="CINE",COMEDY CENTRAL SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1404
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1404
+#EXTINF:-1 tvg-id="" tvg-name="KIDS DREAMWORKS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="INFANTIL",KIDS DREAMWORKS SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1409
 #EXTINF:-1 tvg-id="" tvg-name="FOX SD" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="CINE",FOX SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1410
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1410
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD SD" tvg-logo="https://static.epg.best/es/Hollywood.es.png" group-title="CINE",HOLLYWOOD SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1414
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1414
 #EXTINF:-1 tvg-id="" tvg-name="M+ ACCION SD" tvg-logo="https://static.epg.best/es/MovistarAccion.es.png" group-title="CINE",M+ ACCION SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1418
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1418
 #EXTINF:-1 tvg-id="" tvg-name="M+ DRAMA" tvg-logo="https://static.epg.best/es/MovistarDrama.es.png" group-title="CINE",M+ DRAMA 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1420
-#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES SD" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="CINE",M+ SERIES SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1421
-#EXTINF:-1 tvg-id="" tvg-name="M+ SERIESMANIA SD" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="CINE",M+ SERIESMANIA SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1422
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1420
+#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES SD" tvg-logo="https://static.epg.best/es/MovistarSeries.es.png" group-title="SERIES",M+ SERIES SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1421
+#EXTINF:-1 tvg-id="" tvg-name="M+ SERIESMANIA SD" tvg-logo="https://static.epg.best/es/CcanalPlusSeriesmania.es.png" group-title="SERIES",M+ SERIESMANIA SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1422
 #EXTINF:-1 tvg-id="" tvg-name="M+ VACACIONES" tvg-logo="" group-title="CINE",M+ VACACIONES
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1430
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1430
 #EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV " tvg-logo="https://static.epg.best/es/SundanceTV.es.png" group-title="CINE",SUNDANCE TV 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1432
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1432
 #EXTINF:-1 tvg-id="" tvg-name="SYFY SD" tvg-logo="https://static.epg.best/es/SyFy.es.png" group-title="CINE",SYFY SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1433
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1433
 #EXTINF:-1 tvg-id="" tvg-name="TCM SD" tvg-logo="https://static.epg.best/es/TCM.es.png" group-title="CINE",TCM SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1434
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1434
 #EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="https://static.epg.best/es/TNT.es.png" group-title="CINE",TNT SD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1436
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1436
 #EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CINE",M+ ESTRENOS 2
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/181413
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/181413
 #EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="CINE",M+ ESTRENOS 2
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/181412
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/181412
 #EXTINF:-1 tvg-id="" tvg-name="XTRM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="CINE",XTRM HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173196
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173196
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/2560px-AMC_logo_2019.svg.png" group-title="CINE",AMC HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173195
-#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="https://static.epg.best/es/Teledeporte.es.png" group-title="DEPORTES", TELEDEPORTE
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/844
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173195
+#EXTINF:-1 tvg-id="" tvg-name="ATRESERIES" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atreseries-es.svg" group-title="SERIES",ATRESERIES 
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/37312
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY HD" tvg-logo="https://static.epg.best/es/Divinity.es.png" group-title="TDT",DIVINITY HD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1
+#EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="TDT",LA 1
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/771
+#EXTINF:-1 tvg-id="" tvg-name="LA CUATRO" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="TDT",LA CUATRO
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/772
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="TDT",TELECINCO
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/773
+#EXTINF:-1 tvg-id="" tvg-name="LOCAL ANTENA 3" tvg-logo="https://www.lyngsat.com/logo/tv/aa/antena3_int.png" group-title="TDT", ANTENA 3
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/775
+#EXTINF:-1 tvg-id="" tvg-name="NEOX TV" tvg-logo="https://static.epg.best/es/Neox.es.png" group-title="TDT",NEOX TV
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/779
+#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="https://static.epg.best/es/Mega.es.png" group-title="TDT",MEGA
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/780
+#EXTINF:-1 tvg-id="" tvg-name=" NOVA" tvg-logo="https://static.epg.best/es/Nova.es.png" group-title="TDT", NOVA
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/783
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO" tvg-logo="" group-title="TDT",EL TORO
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/791
+#EXTINF:-1 tvg-id="" tvg-name=" TEN CHANNEL" tvg-logo="https://static.epg.best/es/Ten.es.png" group-title="TDT", TEN CHANNEL
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/826
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="TDT",LA SEXTA
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/839
+#EXTINF:-1 tvg-id="" tvg-name=" TELEDEPORTE" tvg-logo="https://static.epg.best/es/Teledeporte.es.png" group-title="DEPORTES", TELEDEPORTE
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/844
+#EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="TDT",LA 2
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/853
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY " tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="TDT",ENERGY 
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/854
+#EXTINF:-1 tvg-id="" tvg-name=" FDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="TDT", FDF HD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/855
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 SD" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="TDT",LA 2 SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1359
+#EXTINF:-1 tvg-id="" tvg-name=" LA SEXTA SD" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="TDT", LA SEXTA SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1360
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY SD" tvg-logo="https://static.epg.best/es/Divinity.es.png" group-title="TDT",DIVINITY SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1364
+#EXTINF:-1 tvg-id="" tvg-name=" FDF SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="TDT", FDF SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1365
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY SD" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="TDT",ENERGY SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1367
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD SD" tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="TDT",BE MAD SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1368
+#EXTINF:-1 tvg-id="" tvg-name="24HRS SD" tvg-logo="https://static.epg.best/es/24Horas.es.png" group-title="TDT",24HRS SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1369
+#EXTINF:-1 tvg-id="" tvg-name="DMAX SD" tvg-logo="https://static.epg.best/es/Dmax.es.png" group-title="TDT",DMAX SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1377
+#EXTINF:-1 tvg-id="" tvg-name=" ANTENA 3 SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/antena3_int.png" group-title="TDT", ANTENA 3 SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1399
+#EXTINF:-1 tvg-id="" tvg-name=" CUATRO " tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="TDT", CUATRO 
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1406
+#EXTINF:-1 tvg-id="" tvg-name=" DKISS SD" tvg-logo="https://static.epg.best/es/DKISS.es.png" group-title="TDT", DKISS SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1408
+#EXTINF:-1 tvg-id="" tvg-name=" LA 1 SD" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="TDT", LA 1 SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1416
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO SD" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="TDT",TELECINCO SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1435
+#EXTINF:-1 tvg-id="" tvg-name=" EL TORO" tvg-logo="" group-title="TDT",EL TORO
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1437
+#EXTINF:-1 tvg-id="" tvg-name="LA OTRA TV" tvg-logo="https://static.epg.best/es/LaOtra.es.png" group-title="TDT",LA OTRA TV
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/828
+#EXTINF:-1 tvg-id="" tvg-name="TELEMADRID" tvg-logo="https://static.epg.best/es/TeleMadrid.es.png" group-title="TDT",TELEMADRID
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/845
+#EXTINF:-1 tvg-id="" tvg-name="TV GALICIA" tvg-logo="https://static.epg.best/es/TVGalicia.es.png" group-title="TDT",TV GALICIA
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/846
+#EXTINF:-1 tvg-id="" tvg-name="ETB 1 SD" tvg-logo="https://static.epg.best/es/ETB1.es.png" group-title="TDT",ETB 1 SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1390
+#EXTINF:-1 tvg-id="" tvg-name="ETB 2 SD" tvg-logo="https://static.epg.best/es/ETB2.es.png" group-title="TDT",ETB 2 SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1391
+#EXTINF:-1 tvg-id="" tvg-name="CANAL EXTREMADURA " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1200px-CEXMA_new.png" group-title="TDT",CANAL EXTREMADURA 
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173184
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/1200px-Andaluc%C3%ADa_TV_2018_logo.svg.png" group-title="TDT",CANAL SUR 
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173185
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ONDA CADIZ" tvg-logo="http://adc-ondemand.flumotion.com/upload/image/2020/5/logo-onda-cadiz-16-9-5ebcf6f7.png" group-title="TDT",CANAL ONDA CADIZ
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/173186
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="TVE_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1200px-Logo_TVE-HD.svg.png" group-title="TDT",TVE_HD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/181542
+#EXTINF:-1 tvg-id="" tvg-name="RT ESPANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/RT_America_Logo.png" group-title="TDT",RT ESPANA
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/776
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="INFANTIL",DISNEY CHANNEL
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/785
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="INFANTIL",NICKELODEON
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/842
+#EXTINF:-1 tvg-id="" tvg-name="BOING SD" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="INFANTIL",BOING SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1370
+#EXTINF:-1 tvg-id="" tvg-name="PANDA SD" tvg-logo="https://static.epg.best/es/CanalPanda.es.png" group-title="INFANTIL",PANDA SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1371
+#EXTINF:-1 tvg-id="" tvg-name="NICKELEODEON SD" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="INFANTIL",NICKELEODEON SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1372
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR SD" tvg-logo="https://static.epg.best/es/DisneyJunior.es.png" group-title="INFANTIL",DISNEY JR SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1373
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR SD" tvg-logo="https://static.epg.best/es/NickJr.es.png" group-title="INFANTIL",NICK JR SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1375
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV SD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="INFANTIL",BABY TV SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1376
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="INFANTIL",DISNEY CHANNEL SD
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/1407
+#EXTINF:-1 tvg-id="" tvg-name="PEQUERADIO TV " tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="INFANTIL",PEQUERADIO TV 
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/185273
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV CANADA" tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA TV CANADA
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199382
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199382
 #EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA TV HD
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199383
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199383
 #EXTINF:-1 tvg-id="" tvg-name="NBA | TNT   " tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA | TNT   
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199384
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199384
 #EXTINF:-1 tvg-id="" tvg-name="NBA 1 |  OP 1 " tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA 1 |  OP 1 
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199385
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199385
 #EXTINF:-1 tvg-id="" tvg-name="NBA 2 |  OP 2" tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA 2 |  OP 2
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199386
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199386
 #EXTINF:-1 tvg-id="" tvg-name="NBA 3 | OP 3" tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA 3 | OP 3
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199387
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199387
 #EXTINF:-1 tvg-id="" tvg-name="NBA 4 | DEPORTES" tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA 4 | DEPORTES
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199388
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199388
 #EXTINF:-1 tvg-id="" tvg-name="NBA 5 | OFFLINE" tvg-logo="https://www.pngmart.com/files/5/NBA-PNG-Pic.png" group-title="NBA",NBA 5 | OFFLINE
-http://plastreamt.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199389
-#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="TOROS",MUNDOTORO
-http://ee.besata88.top/xdr117663808630/880021910693/420043
+http://gustvplay.com:8080/NvDfpajDynrg/mMmTnx9fAALD/199389
